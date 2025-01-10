@@ -1,4 +1,4 @@
-import ChapterOne from "./Chapters/ChapterOne";
+import ChapterOne from "./Chapters/Chapter one/ChapterOne";
 
 const App = () => {
   return (
